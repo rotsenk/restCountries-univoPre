@@ -1,4 +1,4 @@
 <?php
     echo "Nestor Rivas";
-    echo "Tarea de pre";
+    echo " - Tarea de pre";
 ?>
